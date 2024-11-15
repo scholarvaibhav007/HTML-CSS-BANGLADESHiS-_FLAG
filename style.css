@@ -1,0 +1,26 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+} */
+.bangladesh{
+    width: 720px;
+    height: 360px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px black solid;
+}
+.round{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+.flag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
